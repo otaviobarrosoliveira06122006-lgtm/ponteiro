@@ -2,8 +2,8 @@
   "protocolVersion": 1,
   "serverId": "cd6ee0a7bf59372bbd4c0766251e2b76027f7eaa2a87606413bac48129908346",
   "serverPublicKey": "a4a108024f5d88235c5b258adca7cf172041dc10740b62d477dc01040a46f5a9",
-  "status": "online",
-  "url": "https://jury-signal-aside-did.trycloudflare.com",
-  "updatedAt": "2026-11-11T08:52:54.441Z",
-  "signature": "f9e9902072df4700ba39a4027746d957c85fd66d53daef513b23b763ff260f98a960183eacc23dd170b3f626cbd3db0e4f3469852e3b0d9600f97271f7f05707"
+  "status": "offline",
+  "url": null,
+  "updatedAt": "2026-11-11T09:29:53.687Z",
+  "signature": "75807c4e509e3d7ec1d2ae1e8e005a5a8df3650ca43b49b0b86babe97e9404ec40e8c1e305daa51b41173feeed9e73815565bb4b17d9ab5deac99382b934c509"
 }
