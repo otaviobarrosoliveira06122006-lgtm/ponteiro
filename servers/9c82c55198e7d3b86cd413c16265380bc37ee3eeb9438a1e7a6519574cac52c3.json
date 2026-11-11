@@ -2,8 +2,8 @@
   "protocolVersion": 1,
   "serverId": "9c82c55198e7d3b86cd413c16265380bc37ee3eeb9438a1e7a6519574cac52c3",
   "serverPublicKey": "0d64d7330896240959b48684326c0718f96d57bc88d39c214a713b8c42621065",
-  "status": "offline",
-  "url": null,
-  "updatedAt": "2026-11-11T20:29:57.634Z",
-  "signature": "7cd1ee4499f7a3c7484ebf11cf0bb556d61d57e177e5241ab62e467a39f0605d856cc1ee19185e4acfd11b1906623b5fe3ca72bc2594d141f9e019d202dac203"
+  "status": "online",
+  "url": "https://scholarships-highlight-wheat-parcel.trycloudflare.com",
+  "updatedAt": "2026-11-11T20:31:20.616Z",
+  "signature": "99b2d280aae4b2be4e805e89023593d4bd8a62cf563fd26d5c68b0df20f6ad1a1298764836bab97554766a00771673445ce99d984a8ef6e20d64c03632636b0e"
 }
