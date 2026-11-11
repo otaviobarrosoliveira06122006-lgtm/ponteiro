@@ -2,8 +2,8 @@
   "protocolVersion": 1,
   "serverId": "9c82c55198e7d3b86cd413c16265380bc37ee3eeb9438a1e7a6519574cac52c3",
   "serverPublicKey": "0d64d7330896240959b48684326c0718f96d57bc88d39c214a713b8c42621065",
-  "status": "online",
-  "url": "https://defend-castle-beside-databases.trycloudflare.com",
-  "updatedAt": "2026-11-11T18:04:44.084Z",
-  "signature": "d96036034a9ef30492384a05b471aaff89147cdd1ce16b932935951187ce89e6047c4a4ecf158322d30d6d20fd3e6eeb680253021b839f2daffbc14e768f3300"
+  "status": "offline",
+  "url": null,
+  "updatedAt": "2026-11-11T18:05:22.938Z",
+  "signature": "28dc5802a178699e9d485631be05b5793e563adc36892bd522f71200d15c5a7376bf3e5db36b3c8d97733316e54bad8f8ebad169be149010dabad49ebbafa80b"
 }
