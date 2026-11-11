@@ -2,8 +2,8 @@
   "protocolVersion": 1,
   "serverId": "320da373925c0fffed14cde46f7fd10dcd1fe4fcf194be201775fc611f181f6c",
   "serverPublicKey": "adc06b0d723d1a5225910e09f29ff4ab90ddc5375923780ab014446643c0c708",
-  "status": "offline",
-  "url": null,
-  "updatedAt": "2026-11-11T21:11:50.830Z",
-  "signature": "237f61f3ab03a4e23a6552e8f4cf75f892d1e8d549fabe4b21c62be08cbc1f55c0151fcf00c077822a7840a70932dcf6466058289e9b56a95de2298872ad6301"
+  "status": "online",
+  "url": "https://edition-receptors-conclusions-forms.trycloudflare.com",
+  "updatedAt": "2026-11-11T21:12:11.071Z",
+  "signature": "630d0385c41d56b593dd5aa65ba6002d8ae25a4022555358b34dd99f4ee4d4aeba2a3314d6a7a897e9aa2f16b9f0c0d297d402c4a2f19d41735ce4d14ab5e301"
 }
