@@ -2,8 +2,8 @@
   "protocolVersion": 1,
   "serverId": "320da373925c0fffed14cde46f7fd10dcd1fe4fcf194be201775fc611f181f6c",
   "serverPublicKey": "adc06b0d723d1a5225910e09f29ff4ab90ddc5375923780ab014446643c0c708",
-  "status": "online",
-  "url": "https://receipt-consultants-combines-appropriate.trycloudflare.com",
-  "updatedAt": "2026-11-11T21:29:14.291Z",
-  "signature": "bb68a7e09ef6f1a367ca36a117d5cf48d6b56045289fe3dff07db6432fd5f92ece5873f13190c4eee6f74e1c8da0614385b9caf4aa3d7afb9d6017e8ce9e1b08"
+  "status": "offline",
+  "url": null,
+  "updatedAt": "2026-11-11T21:31:18.614Z",
+  "signature": "5b6bfabb0854807a2a970bb9583f008613ad6749449dd036fd5e59fa5df94bdb3f5bc08f529bca7021bb01945e7e068897fd91e554c61b76f4c9998a2f92c503"
 }
