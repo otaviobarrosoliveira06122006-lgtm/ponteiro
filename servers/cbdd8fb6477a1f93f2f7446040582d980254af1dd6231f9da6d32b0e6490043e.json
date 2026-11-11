@@ -2,8 +2,8 @@
   "protocolVersion": 1,
   "serverId": "cbdd8fb6477a1f93f2f7446040582d980254af1dd6231f9da6d32b0e6490043e",
   "serverPublicKey": "41eb982cb84f92b2cfac39d9f9785a0b2c9e7ab226f710eba555b8e0d12774d8",
-  "status": "online",
-  "url": "https://cultural-proved-discussing-fish.trycloudflare.com",
-  "updatedAt": "2026-11-11T20:28:06.353Z",
-  "signature": "a6339fc90e0c9d15d4c7237bbf8d141c5422e76b1864fdf024268040d502288de915036ffbf16904affaf35d5bea4b245f101d237cfa154fee20a8021e986d09"
+  "status": "offline",
+  "url": null,
+  "updatedAt": "2026-11-11T20:29:57.636Z",
+  "signature": "b89e9a7dc551d7245da90976fe8041a6ce13b2580fc266f1b3d892ccfde814026ac26ec24695a71449cd841df09745d49b8dd31658887c942534bfc4bfef5802"
 }
