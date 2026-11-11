@@ -2,8 +2,8 @@
   "protocolVersion": 1,
   "serverId": "320da373925c0fffed14cde46f7fd10dcd1fe4fcf194be201775fc611f181f6c",
   "serverPublicKey": "adc06b0d723d1a5225910e09f29ff4ab90ddc5375923780ab014446643c0c708",
-  "status": "online",
-  "url": "https://cleaning-diploma-separation-knowledge.trycloudflare.com",
-  "updatedAt": "2026-11-11T21:28:00.489Z",
-  "signature": "cbd0ab21a4c605ec051f84e26941152390913f224a274b32817c4d6de4720ded56e80d3c23e12204fa65795c841a6fdc407bb1a5242d53aae748efc595b59b07"
+  "status": "offline",
+  "url": null,
+  "updatedAt": "2026-11-11T21:28:59.477Z",
+  "signature": "6e6f07d42e7e18fdb7f30ab6f957e9936c3b6e125669c1139c2d235cdddea1557279233c3234798cfab3d0481b5a1174849f6fe42f21a7c6d201491ce8fb5f0d"
 }
