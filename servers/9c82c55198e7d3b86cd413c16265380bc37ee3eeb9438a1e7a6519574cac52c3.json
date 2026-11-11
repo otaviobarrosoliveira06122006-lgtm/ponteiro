@@ -2,8 +2,8 @@
   "protocolVersion": 1,
   "serverId": "9c82c55198e7d3b86cd413c16265380bc37ee3eeb9438a1e7a6519574cac52c3",
   "serverPublicKey": "0d64d7330896240959b48684326c0718f96d57bc88d39c214a713b8c42621065",
-  "status": "online",
-  "url": "https://involved-burn-running-sterling.trycloudflare.com",
-  "updatedAt": "2026-11-11T18:05:44.344Z",
-  "signature": "6472578ca4e0043dd20db4c8c59d082dbace9301eaabec3e91708f63d77cc23b06290ed016abcb4e35a2b84a0f603534c39a340d0df91e22bbde34c5ed411d0d"
+  "status": "offline",
+  "url": null,
+  "updatedAt": "2026-11-11T19:24:07.397Z",
+  "signature": "52ce5c4427ec64902026dc0d4727b8b8303f4e722517558777b8c271c0e90529169da35cb6215a035bc5e0118155750bc2f51db97792e4add1f2a8837048080b"
 }
