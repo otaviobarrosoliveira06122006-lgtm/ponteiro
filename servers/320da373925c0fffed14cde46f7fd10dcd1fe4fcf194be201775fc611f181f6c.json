@@ -2,8 +2,8 @@
   "protocolVersion": 1,
   "serverId": "320da373925c0fffed14cde46f7fd10dcd1fe4fcf194be201775fc611f181f6c",
   "serverPublicKey": "adc06b0d723d1a5225910e09f29ff4ab90ddc5375923780ab014446643c0c708",
-  "status": "offline",
-  "url": null,
-  "updatedAt": "2026-11-11T21:15:01.801Z",
-  "signature": "ac0b28eb890818a9630f0c16f8b67a1898ec367525cdc25523dac2f6ecbe765a9fc7e1e713e661be48f1788607bd4f1beaff0f96bd9939389af8e51bcba3a80b"
+  "status": "online",
+  "url": "https://msg-gps-veterinary-checking.trycloudflare.com",
+  "updatedAt": "2026-11-11T21:15:16.882Z",
+  "signature": "c4be41e4b3422b0f4788ae71c447095cb6f2833f59107dd72e8f9169c9b922ad932829e0f074d6170b5f16e5e6563c566821efaf61aba620faec27022cf59507"
 }
