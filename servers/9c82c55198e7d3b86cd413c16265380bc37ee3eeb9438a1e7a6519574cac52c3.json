@@ -2,8 +2,8 @@
   "protocolVersion": 1,
   "serverId": "9c82c55198e7d3b86cd413c16265380bc37ee3eeb9438a1e7a6519574cac52c3",
   "serverPublicKey": "0d64d7330896240959b48684326c0718f96d57bc88d39c214a713b8c42621065",
-  "status": "online",
-  "url": "https://anne-cultures-analyzed-penny.trycloudflare.com",
-  "updatedAt": "2026-11-11T21:42:38.596Z",
-  "signature": "b86e3ab757e88003cb15079d76ec06a5057ca5ce834f5d8d9c87e8fe99e43d8ee2330b20dca5972672809e869bc2fb13c38585a3d62c084e1105ac8c74898c0c"
+  "status": "offline",
+  "url": null,
+  "updatedAt": "2026-11-11T22:07:30.449Z",
+  "signature": "8716bccd59d8719cba55847f6a89f3d3233c19883d691965f9a785ef7443bc643e5d505db388f35ef4f6da01cba6754db733cd8d820ad9134e178350a4c4550e"
 }
