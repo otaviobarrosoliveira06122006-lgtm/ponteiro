@@ -1,0 +1,9 @@
+{
+  "protocolVersion": 1,
+  "serverId": "592e9e20e214db8fd26bf4f90a7a014f5ef14cdbe846fc97d7d2c9b3b65052ff",
+  "serverPublicKey": "852b84930f3273793cdb939d30de2774fcb043bd02bcba08919f1f45e36b121a",
+  "status": "online",
+  "url": "https://ontario-pdf-eve-lions.trycloudflare.com",
+  "updatedAt": "2026-11-11T20:30:50.784Z",
+  "signature": "691ed13657a56f5bfa4df5997c70ed9179b82c0445713c9d75247f40460edf6f40f965ef10f6e55ec8b1db5b3934e5cd77a93ffe576ff19e622313543fb1cc0a"
+}
