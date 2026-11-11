@@ -2,8 +2,8 @@
   "protocolVersion": 1,
   "serverId": "320da373925c0fffed14cde46f7fd10dcd1fe4fcf194be201775fc611f181f6c",
   "serverPublicKey": "adc06b0d723d1a5225910e09f29ff4ab90ddc5375923780ab014446643c0c708",
-  "status": "online",
-  "url": "https://jam-vbulletin-upcoming-abraham.trycloudflare.com",
-  "updatedAt": "2026-11-11T21:19:47.561Z",
-  "signature": "d08d5278323af4429b24483844b67d4a5a13adde79ef132893a58ec8211007232b2bca4fdbc5be4bc1ab0fac0217a9256035b5b94d27808e326de6264eb59d0d"
+  "status": "offline",
+  "url": null,
+  "updatedAt": "2026-11-11T21:27:49.254Z",
+  "signature": "164db9c889f2ac9df000351c1889f7b41a985667bfbfbc25f5357e4df60bed05294087c12ce7f7a6715dca7ce51f1b72649c8315807c9cdbe2a3525eb06e6305"
 }
