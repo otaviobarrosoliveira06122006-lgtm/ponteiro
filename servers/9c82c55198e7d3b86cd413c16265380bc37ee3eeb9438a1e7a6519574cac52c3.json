@@ -2,8 +2,8 @@
   "protocolVersion": 1,
   "serverId": "9c82c55198e7d3b86cd413c16265380bc37ee3eeb9438a1e7a6519574cac52c3",
   "serverPublicKey": "0d64d7330896240959b48684326c0718f96d57bc88d39c214a713b8c42621065",
-  "status": "online",
-  "url": "https://substantial-west-literary-territories.trycloudflare.com",
-  "updatedAt": "2026-11-11T21:03:33.774Z",
-  "signature": "e45e684cddb628acbb01060104aa128d8592e1d925385b5a47094b1ade520c2a04b9a3167c8f329939ad84349bb10cbfb1d9b4cee5c54883499076f91cc43a0f"
+  "status": "offline",
+  "url": null,
+  "updatedAt": "2026-11-11T21:34:44.727Z",
+  "signature": "6aba878bec0082cb610e9c80656b74889bd7a13e5872c034f6f9d020e69bd85ae02165fd65a9df363d6f659e6f7e44c5060b293d37d92b7d8ef38a5ec56ba70b"
 }
