@@ -2,8 +2,8 @@
   "protocolVersion": 1,
   "serverId": "9c82c55198e7d3b86cd413c16265380bc37ee3eeb9438a1e7a6519574cac52c3",
   "serverPublicKey": "0d64d7330896240959b48684326c0718f96d57bc88d39c214a713b8c42621065",
-  "status": "online",
-  "url": "https://system-nano-dubai-webmasters.trycloudflare.com",
-  "updatedAt": "2026-11-11T20:49:43.600Z",
-  "signature": "41e2d3d5637ce5c044d5ba1002ff40ba3bc261f0ab02641ccdb72d6ca9fc0c280d6fb3a21036c4e4e533462cdfa74d9e5ebf80cb8181824f0db9fd0e7662d703"
+  "status": "offline",
+  "url": null,
+  "updatedAt": "2026-11-11T20:50:46.502Z",
+  "signature": "b4f00a7ed0112023f0cea3da6c0e3d3ba601937cbf221c1f816e6c4a074ea8dcb417cbe916078623c53d7f9131f3475e1e5c9e8ba35a417582445e8118a6800b"
 }
