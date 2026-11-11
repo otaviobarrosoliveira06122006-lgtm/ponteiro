@@ -1,0 +1,9 @@
+{
+  "protocolVersion": 1,
+  "serverId": "9c82c55198e7d3b86cd413c16265380bc37ee3eeb9438a1e7a6519574cac52c3",
+  "serverPublicKey": "0d64d7330896240959b48684326c0718f96d57bc88d39c214a713b8c42621065",
+  "status": "online",
+  "url": "https://podcast-julian-shaft-daughters.trycloudflare.com",
+  "updatedAt": "2026-11-11T09:30:40.354Z",
+  "signature": "47d2e0202d72eeac6028001d464b7df6d5899d7ea29058a5511fcba164502a8746a5e48460f35f8400d9696001a227cb785ae6f812febd0315057c3c8eea7306"
+}
