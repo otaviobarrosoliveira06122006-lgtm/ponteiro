@@ -2,8 +2,8 @@
   "protocolVersion": 1,
   "serverId": "9c82c55198e7d3b86cd413c16265380bc37ee3eeb9438a1e7a6519574cac52c3",
   "serverPublicKey": "0d64d7330896240959b48684326c0718f96d57bc88d39c214a713b8c42621065",
-  "status": "online",
-  "url": "https://statutes-learners-aye-reunion.trycloudflare.com",
-  "updatedAt": "2026-11-11T20:43:34.576Z",
-  "signature": "c2215e1f2aaeb617c9179e455d60429621b3ccac3c2ca2e28d0fa1c93e58e22238609ac59d2fda296a7f81ba81c120b9735f14fff6cc8d39f9f802ead2c69306"
+  "status": "offline",
+  "url": null,
+  "updatedAt": "2026-11-11T20:47:52.963Z",
+  "signature": "820f4ed9a72cafe547eb6773e6098983e17578d887b30c5381b057d9bb1c7b1f463f3b25471ae8dde7ba3e3e500b9ce4885680a11bb26a56fa951ecd45d79402"
 }
