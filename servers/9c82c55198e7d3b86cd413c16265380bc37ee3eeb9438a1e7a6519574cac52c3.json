@@ -2,8 +2,8 @@
   "protocolVersion": 1,
   "serverId": "9c82c55198e7d3b86cd413c16265380bc37ee3eeb9438a1e7a6519574cac52c3",
   "serverPublicKey": "0d64d7330896240959b48684326c0718f96d57bc88d39c214a713b8c42621065",
-  "status": "online",
-  "url": "https://tire-effectively-country-monday.trycloudflare.com",
-  "updatedAt": "2026-11-11T10:03:10.997Z",
-  "signature": "4cc41e22551eeb986d9c360d4294ffc203b1209377287b5471c2787f2681e8ca520ccfe0f2ed658e7e9383c96c01c692372b58bb61a22d4f85fc8c6c444a9602"
+  "status": "offline",
+  "url": null,
+  "updatedAt": "2026-11-11T18:04:17.795Z",
+  "signature": "bf42a5a94e93c0a836814a8c94a31be0e7ee28e6062dad07732161756479c7499b3d134d44ea11a088a4ce1c45dcbf8f93da25a0cdaa059c687fb8b0cf06900a"
 }
