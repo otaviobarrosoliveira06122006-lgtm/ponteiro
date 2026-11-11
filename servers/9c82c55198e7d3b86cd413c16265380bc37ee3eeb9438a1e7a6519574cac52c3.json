@@ -2,8 +2,8 @@
   "protocolVersion": 1,
   "serverId": "9c82c55198e7d3b86cd413c16265380bc37ee3eeb9438a1e7a6519574cac52c3",
   "serverPublicKey": "0d64d7330896240959b48684326c0718f96d57bc88d39c214a713b8c42621065",
-  "status": "offline",
-  "url": null,
-  "updatedAt": "2026-11-11T09:33:43.116Z",
-  "signature": "6780aa03ae4c75e5758db7a6eabec960d14fedf76353139c6a9ec2ceb663969787110e63ea767be0024bfcb7cd28f873bea9770c169f5e6cc487752bc71f280d"
+  "status": "online",
+  "url": "https://adjusted-inquire-former-nancy.trycloudflare.com",
+  "updatedAt": "2026-11-11T09:39:53.993Z",
+  "signature": "951532098e08e71b0d88b39da0056004270525f7a0308c51f5d5c5ed9333824aa7c9bb1ef1446aeac7a9f68aef0212aa8f80c0e201084d158b487d256f23fc06"
 }
