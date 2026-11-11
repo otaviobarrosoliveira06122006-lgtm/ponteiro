@@ -2,8 +2,8 @@
   "protocolVersion": 1,
   "serverId": "9c82c55198e7d3b86cd413c16265380bc37ee3eeb9438a1e7a6519574cac52c3",
   "serverPublicKey": "0d64d7330896240959b48684326c0718f96d57bc88d39c214a713b8c42621065",
-  "status": "online",
-  "url": "https://vat-pointer-translated-anticipated.trycloudflare.com",
-  "updatedAt": "2026-11-11T20:51:07.712Z",
-  "signature": "8da6d90669664b332704ccdcaf34852c478e5519bccc0a4346cba28c298737610507bbfad1bb1e98c8ce4dd11eda0e88e55c7b407d28aa9331f645315db5c201"
+  "status": "offline",
+  "url": null,
+  "updatedAt": "2026-11-11T20:54:15.135Z",
+  "signature": "edf0b40a8df0ff1651ac64a20b979e04c3b7ebffa85dc74784b1ed8f789f13baa39633c0f572904e077acdabe4934463c063d6f340f8f8c6bdab7a089274d20e"
 }
