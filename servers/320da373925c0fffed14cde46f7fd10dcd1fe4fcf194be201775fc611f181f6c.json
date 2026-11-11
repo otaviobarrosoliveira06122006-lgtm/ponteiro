@@ -2,8 +2,8 @@
   "protocolVersion": 1,
   "serverId": "320da373925c0fffed14cde46f7fd10dcd1fe4fcf194be201775fc611f181f6c",
   "serverPublicKey": "adc06b0d723d1a5225910e09f29ff4ab90ddc5375923780ab014446643c0c708",
-  "status": "online",
-  "url": "https://science-supplemental-producer-bull.trycloudflare.com",
-  "updatedAt": "2026-11-11T21:10:13.005Z",
-  "signature": "f7b87ff360ccbaf8e71d394112e9f78d2c7672f525b0db9d708c729927db67b99b7ecab7444441daf009a677cbc6adbb12d1a234098a2bbb23afa2bc607a230f"
+  "status": "offline",
+  "url": null,
+  "updatedAt": "2026-11-11T21:11:50.830Z",
+  "signature": "237f61f3ab03a4e23a6552e8f4cf75f892d1e8d549fabe4b21c62be08cbc1f55c0151fcf00c077822a7840a70932dcf6466058289e9b56a95de2298872ad6301"
 }
