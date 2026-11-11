@@ -2,8 +2,8 @@
   "protocolVersion": 1,
   "serverId": "320da373925c0fffed14cde46f7fd10dcd1fe4fcf194be201775fc611f181f6c",
   "serverPublicKey": "adc06b0d723d1a5225910e09f29ff4ab90ddc5375923780ab014446643c0c708",
-  "status": "offline",
-  "url": null,
-  "updatedAt": "2026-11-11T21:07:05.408Z",
-  "signature": "630ab2709e79785482960447320a1e2f23be40e94e4f2aa2b87fc982102545b8e12695968075e9cb60ae784fc3a90e630b8faf22c562b31a074fbb795bf35d05"
+  "status": "online",
+  "url": "https://consoles-these-near-spoke.trycloudflare.com",
+  "updatedAt": "2026-11-11T21:07:25.563Z",
+  "signature": "607dc8840634d328c63a878cf793d01898129fbacd284d70524461b958b06805096c8109b7e62824332f64e6cfe363e8363d4542416551a9188e4dccaa683304"
 }
