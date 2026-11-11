@@ -2,8 +2,8 @@
   "protocolVersion": 1,
   "serverId": "9c82c55198e7d3b86cd413c16265380bc37ee3eeb9438a1e7a6519574cac52c3",
   "serverPublicKey": "0d64d7330896240959b48684326c0718f96d57bc88d39c214a713b8c42621065",
-  "status": "online",
-  "url": "https://measured-week-market-rebecca.trycloudflare.com",
-  "updatedAt": "2026-11-11T20:48:11.566Z",
-  "signature": "37177abb26079c96dbc8c4af1c55d5e3589ee76fc8f8cade0dc7419f763a71d6b3a4901691ea3b90f2b26167d7146fefe12201c82afefc7537a40fb6eb144405"
+  "status": "offline",
+  "url": null,
+  "updatedAt": "2026-11-11T20:49:07.247Z",
+  "signature": "d6049238298e04e1f5df2668b03112562b0d70a795f4c46bd8bc846ace26d8545a89633f4f2e5344edd564c9d3a42d72f8935a2d0c8e9b5abe1206058dd56705"
 }
