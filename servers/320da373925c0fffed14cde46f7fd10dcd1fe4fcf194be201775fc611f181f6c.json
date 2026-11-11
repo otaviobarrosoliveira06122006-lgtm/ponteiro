@@ -2,8 +2,8 @@
   "protocolVersion": 1,
   "serverId": "320da373925c0fffed14cde46f7fd10dcd1fe4fcf194be201775fc611f181f6c",
   "serverPublicKey": "adc06b0d723d1a5225910e09f29ff4ab90ddc5375923780ab014446643c0c708",
-  "status": "online",
-  "url": "https://offices-too-remaining-fitted.trycloudflare.com",
-  "updatedAt": "2026-11-11T21:13:29.369Z",
-  "signature": "a6f1f2842b6b47be55038ea593ffe3a8b05c9469431ebc9afa9a211045d305b6155d53169af02f877064d2ab02f30e43cc29bb1cc5abbd83ea9b72b49e90f90a"
+  "status": "offline",
+  "url": null,
+  "updatedAt": "2026-11-11T21:15:01.801Z",
+  "signature": "ac0b28eb890818a9630f0c16f8b67a1898ec367525cdc25523dac2f6ecbe765a9fc7e1e713e661be48f1788607bd4f1beaff0f96bd9939389af8e51bcba3a80b"
 }
