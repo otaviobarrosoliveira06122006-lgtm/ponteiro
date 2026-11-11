@@ -2,8 +2,8 @@
   "protocolVersion": 1,
   "serverId": "9c82c55198e7d3b86cd413c16265380bc37ee3eeb9438a1e7a6519574cac52c3",
   "serverPublicKey": "0d64d7330896240959b48684326c0718f96d57bc88d39c214a713b8c42621065",
-  "status": "online",
-  "url": "https://yale-hygiene-others-blocks.trycloudflare.com",
-  "updatedAt": "2026-11-11T19:25:10.088Z",
-  "signature": "af4531090b196af1eac8608e5f426da453044e6a2e3c0d90dcff2f9c063ff808af4df249e0d4e5773a655e07f0e7a7bb5a674a904964c93925b40577c3641f02"
+  "status": "offline",
+  "url": null,
+  "updatedAt": "2026-11-11T20:18:21.626Z",
+  "signature": "8f1c07d2ebb65dd171078af260fa6c3cde9ae1f1fd36876cce9388b89830abcf921bf23da19124b695372013315a5ef8a20ed48575265bc2f6d6db62d5cf7004"
 }
