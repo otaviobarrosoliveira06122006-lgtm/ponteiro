@@ -1,0 +1,9 @@
+{
+  "protocolVersion": 1,
+  "serverId": "320da373925c0fffed14cde46f7fd10dcd1fe4fcf194be201775fc611f181f6c",
+  "serverPublicKey": "adc06b0d723d1a5225910e09f29ff4ab90ddc5375923780ab014446643c0c708",
+  "status": "online",
+  "url": "https://entity-life-href-indicate.trycloudflare.com",
+  "updatedAt": "2026-11-11T21:05:31.941Z",
+  "signature": "572103aafd2ef4faf5e0a765fdd70e03aa33e745d3004d76b8b2ebe8cc4abd68b7eb1905195af41928078dc6e2d33c87e1a7b3549cbf650fd35cef897d139904"
+}
