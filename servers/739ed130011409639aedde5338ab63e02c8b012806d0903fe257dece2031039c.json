@@ -2,8 +2,8 @@
   "protocolVersion": 1,
   "serverId": "739ed130011409639aedde5338ab63e02c8b012806d0903fe257dece2031039c",
   "serverPublicKey": "40c59bce3bd9c84057163c8e5e82c3cf49258caa1ca6277b7be8f1dc3b4c8326",
-  "status": "online",
-  "url": "https://adaptation-sas-occupations-clara.trycloudflare.com",
-  "updatedAt": "2026-11-11T07:27:14.802Z",
-  "signature": "59e6a8fa1329725fab69b892d5e11d873b58ad1c996e4a3835e59d84db1292d9762dcc26097d639521c2841375761a451d2bfef6c39830a78984ff4688368801"
+  "status": "offline",
+  "url": null,
+  "updatedAt": "2026-11-11T08:52:35.084Z",
+  "signature": "bfc547760d73e898f020d0b969f4a9220be549c7a2e5b95a7fd6dfdd1269b1aefe5a02e374684a5ce8c189f3c9a7a62d81c9f4bbe6bf7480cc2948475ffee008"
 }
