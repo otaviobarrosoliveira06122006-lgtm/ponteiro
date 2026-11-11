@@ -2,8 +2,8 @@
   "protocolVersion": 1,
   "serverId": "d6fb3e09fc75809d45d304052ec0108c50635dcbe943321eda620f17960ea152",
   "serverPublicKey": "348aa067de408e588d9394013534df54d5e3b3f60af2f26812cb40741debd32e",
-  "status": "online",
-  "url": "https://missile-came-searching-philadelphia.trycloudflare.com",
-  "updatedAt": "2026-11-11T00:20:21.586Z",
-  "signature": "ac106c558e59f1a6433255ba0569941f2f54e4b3627e950980bdbfedda90f25452f8170dde67799c036d900be64375107048dc27f75565cb307fd56759dada04"
+  "status": "offline",
+  "url": null,
+  "updatedAt": "2026-11-11T05:13:17.517Z",
+  "signature": "31b628fc7fb169e522f6f1c1fd7138d08f6c7626c15d96ee6fb129d10ea07dd4e37ad778fe23a98c1434fabe15a4c972f98aa9a906e7bb9e2f7447b2c9f05504"
 }
