@@ -2,8 +2,8 @@
   "protocolVersion": 1,
   "serverId": "9c82c55198e7d3b86cd413c16265380bc37ee3eeb9438a1e7a6519574cac52c3",
   "serverPublicKey": "0d64d7330896240959b48684326c0718f96d57bc88d39c214a713b8c42621065",
-  "status": "offline",
-  "url": null,
-  "updatedAt": "2026-11-11T20:25:06.030Z",
-  "signature": "09d50039fea201073f57bef8134ac19e8dc66111025a0c026b1334795829f6d80af33c4ffca43ae6843a3b8d7f998b15dd72bdd3678e318881fa2fe11fb5cb03"
+  "status": "online",
+  "url": "https://trailer-lookup-systems-payday.trycloudflare.com",
+  "updatedAt": "2026-11-11T20:25:33.416Z",
+  "signature": "2684d982b99dcb93250e69b5ceb4f1c4ccaba2bd9f50a1e53903f492c8bfb0d898498f3b0ab6507d38bb14da039115819c80aac3ef60f5fbf7c29dbc009f100e"
 }
