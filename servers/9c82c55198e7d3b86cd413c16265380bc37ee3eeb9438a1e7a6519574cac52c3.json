@@ -2,8 +2,8 @@
   "protocolVersion": 1,
   "serverId": "9c82c55198e7d3b86cd413c16265380bc37ee3eeb9438a1e7a6519574cac52c3",
   "serverPublicKey": "0d64d7330896240959b48684326c0718f96d57bc88d39c214a713b8c42621065",
-  "status": "offline",
-  "url": null,
-  "updatedAt": "2026-11-11T09:39:59.187Z",
-  "signature": "d4ea405b82d88696641993c17b3fca1e98f7e25cc22331a1f6c3878529d85a81ea1b2624e6d24ce7c35f285bad3f4900a7900ace2577c9a930bf856c7cb17906"
+  "status": "online",
+  "url": "https://summaries-valve-person-minus.trycloudflare.com",
+  "updatedAt": "2026-11-11T09:40:13.979Z",
+  "signature": "6dcce9836573b0beb19ee191a610df617b877e450d1e4aaaeb9bb81fe63921c340fc85fc8a11b2be4a575f736ae1139417712957b410c9da1720a39a8b3bc80d"
 }
