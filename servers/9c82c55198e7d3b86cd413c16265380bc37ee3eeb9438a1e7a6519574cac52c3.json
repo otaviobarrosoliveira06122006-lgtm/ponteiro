@@ -2,8 +2,8 @@
   "protocolVersion": 1,
   "serverId": "9c82c55198e7d3b86cd413c16265380bc37ee3eeb9438a1e7a6519574cac52c3",
   "serverPublicKey": "0d64d7330896240959b48684326c0718f96d57bc88d39c214a713b8c42621065",
-  "status": "offline",
-  "url": null,
-  "updatedAt": "2026-11-11T20:18:21.626Z",
-  "signature": "8f1c07d2ebb65dd171078af260fa6c3cde9ae1f1fd36876cce9388b89830abcf921bf23da19124b695372013315a5ef8a20ed48575265bc2f6d6db62d5cf7004"
+  "status": "online",
+  "url": "https://nothing-sector-quest-rank.trycloudflare.com",
+  "updatedAt": "2026-11-11T20:18:43.695Z",
+  "signature": "b59f93b16b70e8d5e05c3adac092b1773149539152572b1da39b22c65e1c23c29ef778d6014ca5fe448d61485aa4e455d5be522475328a40cc1580bc14dc6e06"
 }
