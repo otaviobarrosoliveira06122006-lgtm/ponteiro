@@ -1,0 +1,9 @@
+{
+  "protocolVersion": 1,
+  "serverId": "e4987f424b2cb6eafc3d3ce75300cf111ffd15b94eeb2e07969f52870c4fa300",
+  "serverPublicKey": "c695ba1550bed820ec275f1d7956daea36506de6a84aca26d81e5c97a85c94f4",
+  "status": "online",
+  "url": "https://miracle-lanes-ira-merchant.trycloudflare.com",
+  "updatedAt": "2026-11-11T05:13:41.108Z",
+  "signature": "dced58990a9c0e1081ddd2cdb4e293bdc653fbb2a2fe608d021db08f7fb692e28d19590d0cc4a9104c619865433f617ec18a570518bcea55ac67f769c33e070e"
+}
