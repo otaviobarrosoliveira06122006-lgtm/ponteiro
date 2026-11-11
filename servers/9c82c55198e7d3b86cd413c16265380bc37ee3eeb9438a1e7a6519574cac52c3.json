@@ -2,8 +2,8 @@
   "protocolVersion": 1,
   "serverId": "9c82c55198e7d3b86cd413c16265380bc37ee3eeb9438a1e7a6519574cac52c3",
   "serverPublicKey": "0d64d7330896240959b48684326c0718f96d57bc88d39c214a713b8c42621065",
-  "status": "offline",
-  "url": null,
-  "updatedAt": "2026-11-11T09:31:10.587Z",
-  "signature": "93fb96a45a35b190b97f9b059ef54fb5384f038dd8c1c6987ab16f2bbbc802b08709874daae68ae6b991a68db06ca2d0e62b03f0c08afff601d92ed2e287af04"
+  "status": "online",
+  "url": "https://table-preston-remained-mileage.trycloudflare.com",
+  "updatedAt": "2026-11-11T09:31:27.739Z",
+  "signature": "c5bdf7b3e9f7de2bd911f5743d4fecfa3e5b25d87ebf1393ba34529608c64a0b317daa4852530f07179001998e5a71827e25cc6802e689119a647c518af5510a"
 }
