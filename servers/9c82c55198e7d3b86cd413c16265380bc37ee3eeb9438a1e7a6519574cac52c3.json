@@ -2,8 +2,8 @@
   "protocolVersion": 1,
   "serverId": "9c82c55198e7d3b86cd413c16265380bc37ee3eeb9438a1e7a6519574cac52c3",
   "serverPublicKey": "0d64d7330896240959b48684326c0718f96d57bc88d39c214a713b8c42621065",
-  "status": "offline",
-  "url": null,
-  "updatedAt": "2026-11-11T22:07:30.449Z",
-  "signature": "8716bccd59d8719cba55847f6a89f3d3233c19883d691965f9a785ef7443bc643e5d505db388f35ef4f6da01cba6754db733cd8d820ad9134e178350a4c4550e"
+  "status": "online",
+  "url": "https://prison-forum-therapy-abc.trycloudflare.com",
+  "updatedAt": "2026-11-11T22:07:45.284Z",
+  "signature": "53700bf6bca91e6e2994b7e401660b9d6b9825977c41eedb4d68ee033f26a122d93eac61165cc4f28d0a39a08a7e3d84bb81136abb6bd206b222f73a4297e903"
 }
