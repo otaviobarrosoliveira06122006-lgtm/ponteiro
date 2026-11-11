@@ -1,0 +1,9 @@
+{
+  "protocolVersion": 1,
+  "serverId": "d2fbf52378d18a93fea61f45e2ad88df6143a755dc6161e8391e42906a523171",
+  "serverPublicKey": "8d6442f45cdc2890164bcb37d1fc1d91bfa6e94f0e6d227b2ea955164d4924d2",
+  "status": "online",
+  "url": "https://olympics-color-rosa-awards.trycloudflare.com",
+  "updatedAt": "2026-11-11T07:11:26.882Z",
+  "signature": "ac8cfa5d05abaed15f2a97868121e00931d6a770058d90d7b556c4be993ef8d965e18f7b41ef50cb5bde71fd9f0cda83bc0c5f48cab9bc30c234f4af80c43f0d"
+}
