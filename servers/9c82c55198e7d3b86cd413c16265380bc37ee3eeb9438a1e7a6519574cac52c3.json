@@ -2,8 +2,8 @@
   "protocolVersion": 1,
   "serverId": "9c82c55198e7d3b86cd413c16265380bc37ee3eeb9438a1e7a6519574cac52c3",
   "serverPublicKey": "0d64d7330896240959b48684326c0718f96d57bc88d39c214a713b8c42621065",
-  "status": "online",
-  "url": "https://restored-bishop-efficient-bright.trycloudflare.com",
-  "updatedAt": "2026-11-11T20:54:42.061Z",
-  "signature": "e20c2fab37a67fe84b7616bd50fb47692debf00bdf8ee5341ec8c3d594cecf9d070f5213892c99cdddf509698da52a0974ca2816b7e404e195f3378c415bfd0d"
+  "status": "offline",
+  "url": null,
+  "updatedAt": "2026-11-11T21:01:11.552Z",
+  "signature": "ce4877d78cec8510a9b401e11c1e5f37218a55325f704de3672e77bb3e745c17a2a6271f4239a40e6d5ce3b32214cc3efcce01e57ffbd640829f8bb385577c02"
 }
