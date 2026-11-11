@@ -1,0 +1,9 @@
+{
+  "protocolVersion": 1,
+  "serverId": "1930eabc16a94ba56f08399e3999e79e11afcdf68730a0ceed32ac2c84732e77",
+  "serverPublicKey": "b5b623de617f677cb7b38e6fb4ff2c0cc7b37b44b9b5ee55be51853b7abe8531",
+  "status": "online",
+  "url": "https://operator-childhood-bridges-internal.trycloudflare.com",
+  "updatedAt": "2026-11-11T06:56:40.052Z",
+  "signature": "ff900f7ce6b1b962625bc9e7e7f0cdebbb3191450685363e7ae36f72956c2bafb88b6a6dcc1f5afe4071dc736b6b79370836bf968922e7ed4612359398c2420c"
+}
