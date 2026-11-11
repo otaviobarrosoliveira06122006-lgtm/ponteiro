@@ -2,8 +2,8 @@
   "protocolVersion": 1,
   "serverId": "3c1f09f735572b97a7cda614fc48d1ffbc3995ad84c68ae2f5d938c8fa154d2e",
   "serverPublicKey": "b3f72fe6ee9bc2d063cd7b887996ef5d0f01191f29a1915966fe59db739f96e4",
-  "status": "online",
-  "url": "https://curtis-gazette-kenneth-friendly.trycloudflare.com",
-  "updatedAt": "2026-11-11T06:00:16.029Z",
-  "signature": "48166b0826621e3ebbe734ba6c976cc2d23dd446a09d4b70b543bb1f32d1b415c4afd1179b9d5f66a6bcbf11f83428deee525098fe1445a2e4b7bd6d58083209"
+  "status": "offline",
+  "url": null,
+  "updatedAt": "2026-11-11T06:21:13.417Z",
+  "signature": "88e8649fa1bf9c510c04108c846a53d0f7012a5a12208e1ea371a5a3888a2c2905f936a9159551162d8db0f2b5085e132a67ec451d0feb1ddda0e397042dee09"
 }
