@@ -1,0 +1,9 @@
+{
+  "protocolVersion": 1,
+  "serverId": "9b1f9c6db07c0d918628678a1816526dc825c51b1365e9a3da1d6b56c30b3660",
+  "serverPublicKey": "e0eba993f26540c953ed9530d297ccc1a4c02093c4f5b099dd90510ee402749f",
+  "status": "online",
+  "url": "https://released-lid-observations-suburban.trycloudflare.com",
+  "updatedAt": "2026-11-11T06:24:44.900Z",
+  "signature": "555788437ec8b56a7229781ad65a2fac98767d0419c4378fb65de0aa6e494a884db5fe43dc72d2a1c6c20f9f1d43ffe70c4ed306e44767d59025fdfa5649280b"
+}
