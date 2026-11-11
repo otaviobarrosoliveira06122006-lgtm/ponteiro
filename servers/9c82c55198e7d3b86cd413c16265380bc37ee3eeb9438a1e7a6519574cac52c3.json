@@ -2,8 +2,8 @@
   "protocolVersion": 1,
   "serverId": "9c82c55198e7d3b86cd413c16265380bc37ee3eeb9438a1e7a6519574cac52c3",
   "serverPublicKey": "0d64d7330896240959b48684326c0718f96d57bc88d39c214a713b8c42621065",
-  "status": "online",
-  "url": "https://bulletin-conversations-forth-combined.trycloudflare.com",
-  "updatedAt": "2026-11-11T20:22:46.985Z",
-  "signature": "5741b9c4250fc918daa3770cb6a6d85466347135172a37492ccd299d724f7dd2293a63853fc65997b7fc40064320e359c8508c6882715a27f4740dead6ffd102"
+  "status": "offline",
+  "url": null,
+  "updatedAt": "2026-11-11T20:25:06.030Z",
+  "signature": "09d50039fea201073f57bef8134ac19e8dc66111025a0c026b1334795829f6d80af33c4ffca43ae6843a3b8d7f998b15dd72bdd3678e318881fa2fe11fb5cb03"
 }
