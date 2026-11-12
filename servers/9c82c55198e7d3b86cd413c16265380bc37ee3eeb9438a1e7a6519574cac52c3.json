@@ -2,8 +2,8 @@
   "protocolVersion": 1,
   "serverId": "9c82c55198e7d3b86cd413c16265380bc37ee3eeb9438a1e7a6519574cac52c3",
   "serverPublicKey": "0d64d7330896240959b48684326c0718f96d57bc88d39c214a713b8c42621065",
-  "status": "online",
-  "url": "https://those-character-spotlight-contributions.trycloudflare.com",
-  "updatedAt": "2026-11-12T00:27:52.841Z",
-  "signature": "e476712294024218f1f62be9dce201d652c8db8a6902d120729e4cfc6937dba98f4431ad6062a83b3437ae11b705be711d47213b1adad4ec4f9991aa961ce401"
+  "status": "offline",
+  "url": null,
+  "updatedAt": "2026-11-12T01:06:53.539Z",
+  "signature": "ba67a541116e0984b6ec59f84c670364112654846364d1fbbf30023fd2e1fb747cf30184dfbc1ef23556680f49533fea6b500bdaef23803dbd60e416975f4c01"
 }
