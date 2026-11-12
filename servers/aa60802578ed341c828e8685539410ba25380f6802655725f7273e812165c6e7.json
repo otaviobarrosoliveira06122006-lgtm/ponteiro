@@ -1,0 +1,9 @@
+{
+  "protocolVersion": 1,
+  "serverId": "aa60802578ed341c828e8685539410ba25380f6802655725f7273e812165c6e7",
+  "serverPublicKey": "ab4d4461473d497d889552a43c701a4ab5fe4aa2fa67eecf6eec7b37d72bf82a",
+  "status": "online",
+  "url": "https://burlington-island-journals-black.trycloudflare.com",
+  "updatedAt": "2026-11-12T01:10:55.323Z",
+  "signature": "3d98526021a75ff263db9625c28199ac96cef83f5388a647cba872872f5f99e369763f499aaab3ac3c749ffefa4ada33a444953cf4f14b13ae323f863005ea01"
+}
