@@ -2,8 +2,8 @@
   "protocolVersion": 1,
   "serverId": "aa60802578ed341c828e8685539410ba25380f6802655725f7273e812165c6e7",
   "serverPublicKey": "ab4d4461473d497d889552a43c701a4ab5fe4aa2fa67eecf6eec7b37d72bf82a",
-  "status": "offline",
-  "url": null,
-  "updatedAt": "2026-11-12T20:50:44.695Z",
-  "signature": "87f2652a681e32c55a17ebdd252867b9a1d7d9e807b79e27b8e3c9756a4c61915ec5fc7ca89ba12ee9d953aaf312ffae7c79c2214400c100d86169c877007e04"
+  "status": "online",
+  "url": "https://apparatus-rent-spyware-biological.trycloudflare.com",
+  "updatedAt": "2026-11-12T20:51:00.007Z",
+  "signature": "bbfd8588baa34de0e2afcbf3387862c1d1cea88b22fbd61ae644a49667254ef780e3b6523aa210799305930a1cff76fa6f7f63ff62cb5130b5650c5678686508"
 }
